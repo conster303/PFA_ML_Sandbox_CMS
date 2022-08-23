@@ -10,6 +10,4 @@ This is meant to be an interactive tool for users to explore unsupervised cluste
 
 ![image](https://user-images.githubusercontent.com/90798946/186142039-42683cd8-4bb7-4f98-8563-64410ee411b9.png)
 
-![image](https://user-images.githubusercontent.com/90798946/186141989-6c317431-95c8-41a5-8bc3-fa2956fbba34.png)
-
-![image](https://user-images.githubusercontent.com/90798946/186142081-8e599b6d-c583-403a-a3be-95314389a62c.png)
+<img width="515" alt="image" src="https://user-images.githubusercontent.com/90798946/186143547-48f92842-c8f6-4adc-80b1-9bd80f2a3d30.png">
